@@ -31,7 +31,7 @@
 
 ##  Overview
 
-<code>![WIREGUARD QR GEN](relative%20path/images/image.png?raw=true "Title")</code>
+<code>![WIREGUARD QR GEN](images/image.png?raw=true "Title")</code>
 
 ---
 
