@@ -31,6 +31,13 @@
 
 ##  Overview
 
+1. Reads the contents of "wireguard.conf" into variable.
+2. Creates a QR code object.
+3. Adds the contents of "wireguard.conf" to the QR code.
+4. Generates the QR code image.
+5. Prints the QR code to the console in ASCII art format.
+6. Saves the QR code as a PNG image named "wireguard.png" in the "images" directory.
+
 <code>![WIREGUARD QR GEN](images/image.png?raw=true "Title")</code>
 
 ---
