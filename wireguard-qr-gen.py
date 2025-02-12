@@ -13,4 +13,4 @@ with open("wireguard.conf", "r") as f:
     qr.add_data(wg)
     qr.make(fit=True)
     qr.print_ascii(tty=True)
-    qr.make_image(fill_color="black", back_color="white").save("wireguard.png")
+    qr.make_image(fill_color="black", back_color="white").save("images/wireguard.png")
